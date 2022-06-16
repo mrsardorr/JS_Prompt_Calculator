@@ -1,6 +1,6 @@
-let firstNUM = prompt('birinchi sonni kiriting')
-let secondNUM = prompt('ikkinchi sonni kiriting')
-let operator = prompt('operatorni kiriting(+  -   /  *)')
+let firstNUM = prompt('Enter your first number')
+let secondNUM = prompt('Enter your second number')
+let operator = prompt('Enter an Operator (+  -   /  *)')
 let javob = undefined;
 
 if (operator=='+'){
